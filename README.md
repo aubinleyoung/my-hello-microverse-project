@@ -28,9 +28,8 @@
 
 # 📖 [my-hello-microverse-project] <a name="about-project"></a>
 
-> A project built to set linter for HTML and CSS and to understand its use.
 
-**[my-hello-microverse-project]** is a...
+**[my-hello-microverse-project]** is a project built to set linter for HTML and CSS and to understand its use.
 
 ## 🛠 Built With <a name="built-with"></a>
 >Build with HTML & CSS
