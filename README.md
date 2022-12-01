@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -61,4 +58,4 @@ Built with HRML & CSS
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 I would like to thank all my coding partners for the help and support.
->>>>>>> origin/hello-microverse-text
+
